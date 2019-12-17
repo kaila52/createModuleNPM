@@ -1,0 +1,14 @@
+{
+  "name": "log-filejs",
+  "version": "1.0.4",
+  "description": "A logger for just about everything.",
+  "main": "log-filejs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
